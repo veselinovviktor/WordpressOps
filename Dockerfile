@@ -1,4 +1,4 @@
-FROM wordpress:php8.3-apache
+FROM wordpress:latest
 
 LABEL maintainer="Viktor Varbanov <veselinov.viktor@icloud.com>"
 
