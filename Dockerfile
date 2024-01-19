@@ -1,4 +1,4 @@
-FROM wordpress:latest
+FROM wordpress:1
 
 LABEL maintainer="Viktor Varbanov <veselinov.viktor@icloud.com>"
 
